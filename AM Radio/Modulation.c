@@ -7,6 +7,11 @@ Project Description : We are going to make a Carrier Signal on the Frequency of 
 					  on the AM Radio on Frequency 1 MHz
 
 Platform : AVR Atmega328P
+
+Fuse Bits : ## Mega 48, 88, 168, 328 default values
+			LFUSE = 0x62
+			HFUSE = 0xdf
+			EFUSE = 0x00
 					  
 					  
 CopyRight : In this project, I have used the AM Radio project from the book "Make : AVR Programming" by Elliot Williams
